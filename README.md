@@ -1,4 +1,4 @@
-<h1 align="center">Hello, Fellow Developers <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height = 30px width = 30px> </h1> 
+<h1 align="center">Hello, Fellow Developers <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height = 20px width = 20px> </h1> 
 <h3 align="center">I am Abhishek Bisht 😊 . Currently I am a final year student from DIT Dehradun in Computer Science with specialization in Big Data Analytics 📡</h3>
 <p align="center"><img src="https://i.ibb.co/S3FwFX7/Developer.jpg" alt="Developer" border="0"></p>
 
