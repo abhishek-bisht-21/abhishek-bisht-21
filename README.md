@@ -1,6 +1,8 @@
-<h1 align="center">Hello, Fellow Developers <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height = 20px width = 20px> </h1> 
+<h1 align="center">Hello, Fellow Developers </h1> 
 <h3 align="center">I am Abhishek Bisht 😊 . Currently I am a final year student from DIT Dehradun in Computer Science with specialization in Big Data Analytics 📡</h3>
 <p align="center"><img src="https://i.ibb.co/S3FwFX7/Developer.jpg" alt="Developer" border="0"></p>
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=abhishek-bisht-21.abhishek-bisht-21)
 
 - 🔭 I’m currently working on **on my project , Codeial , which will be a social media platform and a safe space for all developers .**
 
