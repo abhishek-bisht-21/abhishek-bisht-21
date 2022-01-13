@@ -1,6 +1,6 @@
 <h1 align="center">Hello, Fellow Developers <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1> 
 <h3 align="center">I am Abhishek Bisht 😊 . Currently I am a final year student from DIT Dehradun in Computer Science with specialization in Big Data Analytics 📡</h3>
-<p align="center"><img src="https://i.ibb.co/S3FwFX7/Developer.jpg" alt="Developer" border="0" width="55%"></p>
+<p align="center"><img src="https://i.ibb.co/S3FwFX7/Developer.jpg" alt="Developer" border="0" width="65%"></p>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=abhishek-bisht-21.abhishek-bisht-21)
 
