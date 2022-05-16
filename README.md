@@ -1,5 +1,5 @@
 <h1 align="center">Hello, Fellow Developers <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1> 
-<h2 align="center">I am Abhishek Bisht 😊 . A final year student at DIT University . 📡</h2>
+<h2 align="center">I am Abhishek Bisht . A final year student at DIT University . </h2>
 <p align="center"><img src="https://i.ibb.co/S3FwFX7/Developer.jpg" alt="Developer" border="0" ></p>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=abhishek-bisht-21.abhishek-bisht-21)
