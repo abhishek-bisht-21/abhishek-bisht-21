@@ -12,7 +12,7 @@
 
 - ⚡ Fun fact **I am GPU hungry**
 
-- 📫 How to reach me: abhishek.bisht.21@gmail.com
+- 📫 How to reach out to me: abhishek.bisht.21@gmail.com
 
 <h2 align="left">Connect with me:  <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"></h2>
 <p align="left">
