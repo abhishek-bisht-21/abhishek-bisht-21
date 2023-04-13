@@ -1,18 +1,20 @@
 <h2 align="center">Hello, Fellow Developers <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = "20px" height = "20px"> </h2> 
-<h3 align="center">Hi Everyone! My name is Abhishek Bisht. I am a final year engineering grad, interested in Web Technologies , Blockchain and Problem Solving. Thanks  for taking out time to view my GitHub Profile 😎 </h3>
+<h3 align="center">Hi Everyone! My name is Abhishek Bisht. I am a 2022 engineering grad, interested in Web Technologies , Blockchain and Problem Solving. Thanks  for taking out time to view my GitHub Profile 😎 </h3>
 <p align="center"><img src="https://i.ibb.co/S3FwFX7/Developer.jpg"  alt="Developer" border="0" ></p>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=abhishek-bisht-21.abhishek-bisht-21)
 
-- 🔭 I’m currently working on **on my project , Codeial , which will be a social media platform and a safe space for all developers .**
+<h2 align="left">About Me </h2>
 
-- 🌱 I’m currently learning **brushing up my skills and plan to learn BlockChain and Data Analytics.**
+- 🔭 I’m currently as Software Developer Engineer in Test at SOTI. Responsible for creating Automation scripts, Designing Automation Framework using Playwright,Appium, .NET. I have previously worked at Lenovo as SDE Intern, where I have developed new features to improve user experience using Angular.**
 
-- 🤝 I’m looking for help with **free-lance projects and love to contribute to open source projects 💡**
+- 🌱 I’m currently working on my **Problem Solving along with builidng new .**
 
-- ⚡ Fun fact **I am GPU hungry**
+- 🤝 I’m looking to collobrate on **free-lance projects and love to contribute to open source projects 💡**
 
+- 💬 Talk to me about **Software Engineering, problem solving and builidng Scalable Backend Systems. **
 - 📫 How to reach out to me: abhishek.bisht.21@gmail.com
+
 
 <h2 align="left">Connect with me:  <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"></h2>
 <p align="left">
