@@ -8,9 +8,9 @@
 
 - 🔭 I’m currently as Software Developer Engineer in Test at SOTI. Responsible for creating Automation scripts, Designing Automation Framework using Playwright,Appium, .NET. I have previously worked at Lenovo as SDE Intern, where I have developed new features to improve user experience using Angular.
 
-- 🌱 I’m currently working on my **Problem Solving along with builidng new.**
+- 🌱 I’m currently working on my **Problem Solving along with builidng scalable WebApps.**
 
-- 🤝 I’m looking to collobrate on **free-lance projects and love to contribute to open source projects 💡**
+- 🤝 I’m looking to collaborate on **free-lance projects and love to contribute to open source projects 💡**
 
 - 💬 Talk to me about **Software Engineering, problem solving and builidng Scalable Backend Systems.**
 - 📫 How to reach out to me: abhishek.bisht.21@gmail.com
