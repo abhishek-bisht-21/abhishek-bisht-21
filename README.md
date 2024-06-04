@@ -1,16 +1,16 @@
 <h2 align="center">Hello, Fellow Developers <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = "20px" height = "20px"> </h2> 
-<h3 align="center">Hi Everyone! My name is Abhishek Bisht. I am a 2022 engineering grad, interested in Web Technologies , Blockchain and Problem Solving. Thanks  for taking out time to view my GitHub Profile 😎 </h3>
+<h3 align="center">Hi Everyone! My name is Abhishek Bisht. I am a 2022 engineering grad, interested in Web Technologies, Blockchain, and Problem Solving. Thanks  for taking out time to view my GitHub Profile 😎 </h3>
 <p align="center"><img src="https://i.ibb.co/S3FwFX7/Developer.jpg"  alt="Developer" border="0" ></p>
 
 <h2 align="left">About Me </h2>
 
-- 🔭 I’m currently as Software Developer Engineer in Test at SOTI. Responsible for creating Automation scripts, Designing Automation Framework using Playwright,Appium, .NET. I have previously worked at Lenovo as SDE Intern, where I have developed new features to improve user experience using Angular.
+- 🔭 I’m currently a Software Developer Engineer in Test at SOTI. Responsible for creating Automation scripts and designing Automation frameworks using Playwright, Appium, >NET. I have previously worked at Lenovo as an SDE Intern, developing new features to improve user experience using Angular.
 
-- 🌱 I’m currently working on my **Problem Solving along with builidng scalable WebApps.**
+- 🌱 I’m currently working on my **Problem Solving along with building scalable WebApps.**
 
 - 🤝 I’m looking to collaborate on **free-lance projects and love to contribute to open source projects 💡**
 
-- 💬 Talk to me about **Software Engineering, problem solving and builidng Scalable Backend Systems.**
+- 💬 Talk to me about **Software Engineering, problem-solving, and building Scalable Backend Systems.**
 - 📫 How to reach out to me: abhishek.bisht.21@gmail.com
 
 
