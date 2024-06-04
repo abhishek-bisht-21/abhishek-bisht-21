@@ -2,8 +2,6 @@
 <h3 align="center">Hi Everyone! My name is Abhishek Bisht. I am a 2022 engineering grad, interested in Web Technologies , Blockchain and Problem Solving. Thanks  for taking out time to view my GitHub Profile 😎 </h3>
 <p align="center"><img src="https://i.ibb.co/S3FwFX7/Developer.jpg"  alt="Developer" border="0" ></p>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=abhishek-bisht-21.abhishek-bisht-21)
-
 <h2 align="left">About Me </h2>
 
 - 🔭 I’m currently as Software Developer Engineer in Test at SOTI. Responsible for creating Automation scripts, Designing Automation Framework using Playwright,Appium, .NET. I have previously worked at Lenovo as SDE Intern, where I have developed new features to improve user experience using Angular.
