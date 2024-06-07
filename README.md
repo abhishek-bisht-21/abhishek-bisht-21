@@ -2,8 +2,9 @@
 <blockquote align="center">
   <b><i>
 Hi there! I'm Abhishek Bisht. I graduated in 2022 with a degree in Computer Science from DIT University. Currently working as a Software Developer in Test, sharpening my skills and diving deep into the tech world  Passionate about problem-solving, building scalable backend systems, and exploring the vast possibilities of Web 3.0. Thanks for visiting my GitHub profile!
-<blockquote align="center">
-  </b></i>
+      </b></i>
+<blockquote>
+
 </br>
 </br>
 <p align="center"><img src="https://i.ibb.co/S3FwFX7/Developer.jpg"  alt="Developer" border="0" ></p>
