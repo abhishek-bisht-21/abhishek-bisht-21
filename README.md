@@ -1,5 +1,9 @@
 <h2 align="center">Hello, Fellow Developers <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = "20px" height = "20px"> </h2> 
-<h5 align="center"> Hi there! I'm Abhishek Bisht. I graduated in 2022 with a degree in Computer Science from DIT University. Currently working as a Software Developer in Test, sharpening my skills and diving deep into the tech world  Passionate about problem-solving, building scalable backend systems, and exploring the vast possibilities of Web 3.0. Thanks for visiting my GitHub profile!</h5>
+<blockquote align="center">
+  <b><i>
+ align="center"> Hi there! I'm Abhishek Bisht. I graduated in 2022 with a degree in Computer Science from DIT University. Currently working as a Software Developer in Test, sharpening my skills and diving deep into the tech world  Passionate about problem-solving, building scalable backend systems, and exploring the vast possibilities of Web 3.0. Thanks for visiting my GitHub profile!
+<blockquote align="center">
+  </b></i>
 <p align="center"><img src="https://i.ibb.co/S3FwFX7/Developer.jpg"  alt="Developer" border="0" ></p>
 
 <h2 align="left">About Me </h2>
