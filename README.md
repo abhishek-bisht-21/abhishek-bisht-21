@@ -1,10 +1,10 @@
 <h2 align="center">Hello, Fellow Developers <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = "20px" height = "20px"> </h2> 
-<h3 align="center">Hi Everyone! My name is Abhishek Bisht. I am a 2022 engineering grad, interested in Web Technologies, Blockchain, and Problem Solving. Thanks  for taking out time to view my GitHub Profile 😎 </h3>
+<h3 align="center">👋 Hi there! I'm Abhishek Bisht. I graduated in 2022 with a degree in Computer Science from DIT University. Currently working as a Software Developer in Test, sharpening my skills and diving deep into the tech world  Passionate about problem-solving, building scalable backend systems, and exploring the vast possibilities of Web 3.0. Thanks for visiting my GitHub profile!</h3>
 <p align="center"><img src="https://i.ibb.co/S3FwFX7/Developer.jpg"  alt="Developer" border="0" ></p>
 
 <h2 align="left">About Me </h2>
 
-- 🔭 I’m currently a Software Developer Engineer in Test at SOTI. Responsible for creating Automation scripts and designing Automation frameworks using Playwright, Appium, >NET. I have previously worked at Lenovo as an SDE Intern, developing new features to improve user experience using Angular.
+- 🔭 I’m currently a Software Developer Engineer in Test at SOTI. Responsible for creating Automation scripts for covering entire user journeys and designing Automation frameworks using Playwright, Appium, C#. I have previously worked at Lenovo as an SDE Intern, developing new features to improve user experience using Angular.
 
 - 🌱 I’m currently working on my **Problem Solving along with building scalable WebApps.**
 
