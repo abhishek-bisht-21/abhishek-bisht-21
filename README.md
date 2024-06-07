@@ -8,7 +8,7 @@ Hi there! I'm Abhishek Bisht. I graduated in 2022 with a degree in Computer Scie
 
 </br>
 
-<p align="center"><img src="https://i.ibb.co/S3FwFX7/Developer.jpg"  alt="Developer" border="0" ></p>
+<p align="center"><img width="55%" src="https://i.ibb.co/S3FwFX7/Developer.jpg"  alt="Developer" border="0" ></p>
 
 <h2 align="left">About Me </h2>
 
