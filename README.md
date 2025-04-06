@@ -12,7 +12,7 @@ Hi there! I'm Abhishek Bisht. I graduated in 2022 with a degree in Computer Scie
 
 <h2 align="left">About Me </h2>
 
-- 🔭 I’m currently a Software Developer Engineer in Test at SOTI. Responsible for creating Automation scripts for covering entire user journeys and designing Automation frameworks using Playwright, Appium, C#. I have previously worked at Lenovo as an SDE Intern, developing new features to improve user experience using Angular.
+- 🔭 I'm Abhishek Bisht, a tech enthusiast and SDET with hands-on experience in automation, CI/CD, and microservices, currently working at Zupee.
 
 - 🌱 I’m currently working on my **Problem Solving along with building scalable WebApps.**
 
